@@ -1,368 +1,132 @@
-![Top Doodle](/top.png)
+![logo](top.png)
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+
+<h1 align="center">Hi 👋, I'm Quyet Chien</h1>
+<h3 align="center">A fullstack developer from Viet Nam</h3>
+<p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
+<p align="center"> 
+ <img src="https://komarev.com/ghpvc/?username=quyetchien2k5&label=Profile%20views&color=0e75b6&style=flat" alt="chien" /> 
+<!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="My languages" /> -->
+<!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/quyetchien2k5"> -->
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=016EEA&size=60&center=true&vCenter=true&width=900&height=100&lines=Hello+%F0%9F%91%8B+My+Name+is+Chien.;I+Am+a+JavaScript+Developer.;Feel+Free+to+Get+in+Touch.+%F0%9F%98%84;Nice+to+Meet+You!!!...)](https://github.com/CodingAce123)
-
-<h1 align="center">Hello! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Quyet Chien. 👱🏼 quyetchien2k5 ☕💻💡❤️</h1>
-
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/quyetchien2k5)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/quyetchien2k5)
-[![Updated Badge](https://img.shields.io/github/last-commit/CodingAce123/CodingAce123/master?label=Last%20Updated&style=flat)](https://github.com/quyetchien2k5/quyetchien2k5/commits)
-[![Created Badge](https://badges.pufler.dev/created/quyetchien2k5/quyetchien2k5)](https://github.com/quyetchien2k5)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/quyetchien2k5)](https://github.com/quyetchien2k5)
-[![Waka Readme](https://github.com/quyetchien2k5/quyetchien2k5/actions/workflows/update-stats.yml/badge.svg?branch=master)](https://github.com/quyetchien2k5/quyetchien2k5/actions/workflows/waka-readme.yml)
-
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="340" height="395">
-<h3 align="left">I'm 18 years old and from Thanh Hoa, Viet Nam</h3>
-
-*A Student at [VKU](https://vku.udn.vn)*<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
-</em></p>
-
-[![Visits](https://komarev.com/ghpvc/?username=CodingAce123&label=Github%20Profile%20Visits&color=f20707&logo=github&style=flat-square)](https://github.com/CodingAce123)
-[![Website](https://img.shields.io/website?label=My%20Website&logo=Google-Chrome&logoColor=white&style=flat-square&url=https://aaryanbizoara.whjr.site/)](https://aaryanbizoara.whjr.site/)
-[![My Youtube](https://img.shields.io/youtube/channel/subscribers/UC5kSlDs_uZs6mr-GeJfC8tg?color=%23ff0000&label=YT%20Subscribers&logo=Youtube&logoColor=%23ff0000&style=flat-square)](https://www.youtube.com/channel/UC5kSlDs_uZs6mr-GeJfC8tg)
-[![Twitter Follow](https://img.shields.io/twitter/follow/CrzSnapshotGamr?color=1DA1F2&label=Follow%20Me&logo=twitter&style=flat-square)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAbout-Me&screen_name=CrzSnapshotGamr)
-[![My Twitch](https://img.shields.io/twitch/status/crazysnapshotgamer99?color=f70505&label=My%20Twitch&logo=twitch&style=flat-square)](https://www.twitch.tv/crazysnapshotgamer99)
-[![GitHub Followers](https://img.shields.io/github/followers/CodingAce123?label=Github%20Followers&logo=github&style=flat-square)](https://github.com/CodingAce123)
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/3kh0?label=Sponsors&logo=githubsponsors&style=flat-square)](https://github.com/CodingAce123)
-[![GitHub User's stars](https://img.shields.io/github/stars/3kh0?color=yellow&label=User%20Stars&style=flat-square&logo=github&logoColor=yellow)](https://github.com/CodingAce123)
-
-
-<h2 align='left'>
-  Softwares I Use:<br/><br/>
-
-[![VS Code](https://img.shields.io/badge/Editor-VS%20Code-blue/?logo=visualstudiocode&logoColor=blue&color=blue)](https://code.visualstudio.com/)
-[![G-Mail](https://img.shields.io/badge/Uses-Gmail-blue/?logo=gmail&logoColor=warning&color=red)](https://github.com/CodingAce123)
-[![Opera-GX](https://img.shields.io/badge/Uses-OperaGX-blue/?logo=opera&logoColor=ff1b2d&color=ff1b2d)](https://www.opera.com/gx)
-[![Steam](https://img.shields.io/badge/Uses-Steam-blue/?logo=steam&logoColor=1b2838&color=1b2838)](https://store.steampowered.com/)
-[![Discord](https://img.shields.io/badge/Uses-Discord-blue/?logo=discord&logoColor=warning&color=7289DA)](https://discord.gg/4CpjK2vveY)
-[![Spotify](https://img.shields.io/badge/Listens%20to-Spotify-blue/?logo=spotify&logoColor=warning&color=1DB954)](https://open.spotify.com/user/3rpxiap4czveo8clwzcqaf68e)
-</h2>
-
-<h2 align='left'>
-  Languages That I Know...<br/><br/>
-
-[![Javascript](https://img.shields.io/badge/Knows-JavaScript-blue/?logo=javascript&logoColor=warning&color=yellow)](https://github.com/CodingAce123)
-[![HTML](https://img.shields.io/badge/Knows-HTML-blue/?logo=html5&logoColor=warning&color=orange)](https://github.com/CodingAce123)
-[![Markdown](https://img.shields.io/badge/Knows-MarkDown-FFF?logo=markdown)](https://github.com/CodingAce123)
-</h2>
-
-
-<h3 align='left'>
-  💻 My Workspace, My PC!!!:-<br/><br/>
-
-  [![Windows 10](https://img.shields.io/badge/Windows%2010-%230078D6.svg?&style=flat-square&logo=windows&logoColor=white)](https://github.com/CodingAce123)
-  [![Intel Core i5](https://img.shields.io/badge/Intel-Core%20i5%205th%20%20Gen-%230071C5.svg?&style=flat-square&logo=intel&logoColor=white)](https://github.com/CodingAce123)
-  [![8GB RAM](https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=flat-square&logoColor=white)](https://github.com/CodingAce123)
-  [![64 Bit System](https://img.shields.io/badge/System%20Type-64%20Bit-%230071C5.svg?&style=flat-square)](https://github.com/CodingAce123)
-</h3>
-
----
-
-📧 Want To E-Mail Me?
-<br>
-*<b>👇 Hit in Your Console or Terminal to Connect With Me.</b>*
-
-```bash
-npx aaryan
-```
-**👆 This Command Line Tool can be Found at [npx aaryan](https://github.com/CodingAce123/Npx-Card)**
-
-<h4 align="left"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50
-" height="50"> <em><b>I Love Connecting with Different People</b> So If You Want to say <b>Hi</b>, I'll be <b>Happy to Meet you More!</b> 😊</em></h4>
-
----
- 
-<h1 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me...</h1>
-
-<img align="left" alt="GIF-1" width="350px" height="350px" src="https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/Monkey_Kid_Coding.gif" />
-
-
-## I'm A Student, Developer, Gamer and a Learner!!!
-- 👱🏼 Hey, I am Aaryan Bizoara, a 13 Year Old Young Developer and a Student In Grade 8th.
-- 😄 Adjectives: Coder, Leader and Kind Hearted
-- 🌈 I Like Coding, Cricket, Art and Craft, Cubing, Music and Playing Games.
-- ⚡ Cravings: Food, Travelling and Playing Games 
-- 🎓 In Coding, I Am Learning JavaScript on [WhiteHat Junior][refferal].
-- 🌱 I Am Also Learning CSS, HTML and C#
-- 😐 I have a Love/hate Relationship with Programming
-- 💥 Check Out My Awesome [Octoprofile][octoprofile]
-- ✈ In Future, I’m Looking to get a Job in Microsoft.
-- ❤️ Support Me and Follow Me In  Social Media
-- 😉 So, Check Out My Repositories and Projects. Hope You Enjoy !!!
-
-## Listen With Me On Spotify 🎧
-
-[![My Rock Playlist](https://img.shields.io/badge/My%20Rock%20Music%20Playlist-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3w9KxGaNLAzUCmBWylXRKJ)
-[![Youtube Playlist](https://img.shields.io/badge/Youtube%20Songs%20Playlist-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/6WWwkb3SOn7umVjuBaqBnn)
-
-[![Spotify](https://novatorem-weld-ten.vercel.app/api/spotify)](https://open.spotify.com/user/3rpxiap4czveo8clwzcqaf68e) [<img alt="GIF" height="130px" src="https://media.giphy.com/media/6iG7AvqmLXgTvay1dq/giphy.gif">](https://open.spotify.com/user/3rpxiap4czveo8clwzcqaf68e)
-
-[![Recently Played in Spotify](https://spotify-recently-played-readme.vercel.app/api?user=3rpxiap4czveo8clwzcqaf68e)](https://github.com/CodingAce123)
-
----
-
-## ❤️Connect With Me❤️:
-
-[<img align="left" alt="https://aaryanbizoara.whjr.site/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="The Creative Thinking | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/youtube.svg" />][youtube]
-[<img align="left" alt="CrazySnapshotGamer99 | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/twitch.svg" />][twitch]
-[<img align="left" alt="CrzSnapshotGamr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/twitter.svg" />][twitter]
-[<img align="left" alt="CrazySnapshotGamer99 | Roblox" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/roblox.svg" />][roblox]
-[<img align="left" alt="CrazySnapshotGamer99 | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/discord.svg" />][discord]
-[<img align="left" alt="Àârÿàn | Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/spotify.svg" />][spotify]
-
-<br />
-<br />
-
-<table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/CodingAce123/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/CodingAce123/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/CodingAce123/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
-
-<br />
-
----
-
-## 👱🏼 Some Of My Best and Awesome Projects 🚀-
-
-  <br />
-  <table>
-    <thead align="center">
-      <tr border: none;>
-        <td><b>💻 Projects</b></td>
-        <td><b>🌟 Stars</b></td>
-        <td><b>🍴 Forks</b></td>
-        <td><b>🐛 Issues</b></td>
-        <td><b>🔔 Pull Requests</b></td>
-        <td><b>👨‍💻 Language</b></td>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-	      <td><a href="https://github.com/CodingAce123/CodingAce123"><b>🚀 CodingAce123</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/CodingAce123/CodingAce123?style=flat-square&label=Stars&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/CodingAce123/CodingAce123?style=flat-square&label=Forks&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/CodingAce123/CodingAce123?style=flat-square&label=Issues"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/CodingAce123/CodingAce123?style=flat-square&label=Pull%20Requests"/></td>
-        <td><img alt="Language" src="https://img.shields.io/badge/Markdown-100.0%25-blue?style=flat-square"/></td>
-      </tr>
-      <td><a href="https://github.com/CodingAce123/Npx-Card"><b>🔑 Random Password Generator</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/CodingAce123/Random-Password-Generator-App?style=flat-square&label=Stars&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/CodingAce123/Random-Password-Generator-App?style=flat-square&label=Forks&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/CodingAce123/Random-Password-Generator-App?style=flat-square&label=Issues"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/CodingAce123/Random-Password-Generator-App?style=flat-square&label=Pull%20Requests"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/CodingAce123/Random-Password-Generator-App?label=CSS&style=flat-square"/></td>
-      <tr>
-	      <td><a href="https://github.com/CodingAce123/Npx-Card"><b>💸 Npx- Business Card</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/CodingAce123/Npx-Card?style=flat-square&label=Stars&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/CodingAce123/Npx-Card?style=flat-square&label=Forks&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/CodingAce123/Npx-Card?style=flat-square&label=Issues"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/CodingAce123/Npx-Card?style=flat-square&label=Pull%20Requests"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/CodingAce123/Npx-Card?label=Javascript&style=flat-square"/></td>
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/CodingAce123/Project-38"><b>👨🏻‍💻 Bob The Robber Game</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/CodingAce123/Project-38?style=flat-square&label=Stars&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/CodingAce123/Project-38?style=flat-square&label=Forks&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/CodingAce123/Project-38?style=flat-square&label=Issues"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/CodingAce123/Project-38?style=flat-square&label=Pull%20Requests"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/CodingAce123/Project-38?style=flat-square&label=Javascript"/></td> 
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/CodingAce123/Project-28"><b>😋 Plucking Mangoes Game</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/CodingAce123/Project-28?style=flat-square&label=Stars&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/CodingAce123/Project-28?style=flat-square&label=Forks&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/CodingAce123/Project-28?style=flat-square&label=Issues"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/CodingAce123/Project-28?style=flat-square&label=Pull%20Requests"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/CodingAce123/Project-28?style=flat-square&label=Javascript"/></td> 
-      </tr>
-    </tbody>
-  </table>
-  <br />
-
----
-
-<h1 align="center">My Programming, WakaTime, Github and Youtube Stats</h1>
-
- <details> 
-<summary> <img align="left" alt="Laptop Logo" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Computer.svg"/> <b>:zap: Programming Stats :zap:</b>: </summary>
- <br>
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs%2059%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9%20Thousand%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 0 Contributions in the Year 2022
- > 
-> 📦 94.6 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 55 Public Repositories 
- > 
-> 🔑 1 Private Repository 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    44 commits     ████████░░░░░░░░░░░░░░░░░   34.65% 
-🌆 Daytime    65 commits     ████████████░░░░░░░░░░░░░   51.18% 
-🌃 Evening    18 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.17% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       22 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.32% 
-Tuesday      34 commits     ██████░░░░░░░░░░░░░░░░░░░   26.77% 
-Wednesday    21 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.54% 
-Thursday     28 commits     █████░░░░░░░░░░░░░░░░░░░░   22.05% 
-Friday       2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.57% 
-Saturday     4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.15% 
-Sunday       16 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.6%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               41 repos            █████████████████████░░░░   83.67% 
-CSS                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.2% 
-HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.12%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/CodingAce123/CodingAce123/master/charts/bar_graph.png) 
-
-
- Last Updated on 09/11/2022 00:50:19 UTC
-<!--END_SECTION:waka-->
-
-</details>
-
-<details>
-  <summary> 
-  <b>:zap: WakaTime Stats <img align="left" alt="Wakatime Logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/wakatime.svg" /> :zap:</b>: </summary>
-<br />
-
-<img src='https://github-readme-stats.vercel.app/api/wakatime?username=@CodingAce123' 
-align = left/>
-
-<img src='https://github-readme-stats.vercel.app/api/wakatime?username=@CodingAce123&theme=dark&layout=compact'
-align = left/>
-
-</details>
-
-<details>
-  <summary> <img align="left" alt="Github Logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/github.svg" /> <b>:zap: GitHub Stats :zap:</b>: </summary>
-<br />
 <div align="center">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
+ <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+</div>
 
-<img src='https://raw.githubusercontent.com/CodingAce123/CodingAce123/master/profile-summary-card-output/github_dark/0-profile-details.svg'
-align = "left" />
+<br>
 
-<img src ='https://raw.githubusercontent.com/CodingAce123/CodingAce123/master/profile-summary-card-output/github/1-repos-per-language.svg' />
-
-<img src = 'https://raw.githubusercontent.com/CodingAce123/CodingAce123/master/profile-summary-card-output/github/2-most-commit-language.svg' />
-
-<img src = 'https://raw.githubusercontent.com/CodingAce123/CodingAce123/master/profile-summary-card-output/nord_dark/3-stats.svg' />
-
-<img src = 'https://raw.githubusercontent.com/CodingAce123/CodingAce123/master/profile-summary-card-output/nord_dark/4-productive-time.svg' />
-
-<img src='https://github-readme-stats.vercel.app/api?username=CodingAce123&show_icons=true&theme=radical&count_private=true&border_color=2e4058&line_height=40'  
-align="left" />
-
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=CodingAce123&theme=merko&langs_count=5&border_color=2e4058' />
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=CodingAce123&theme=gruvbox&row=1&column=7)](https://github.com/CodingAce123)
-
-[![](https://github-readme-streak-stats.herokuapp.com/?user=CodingAce123&theme=dark)](https://github.com/CodingAce123)
-
-<img src="https://activity-graph.herokuapp.com/graph?username=CodingAce123&theme=react-dark&bg_color=20232a&hide_border=true" width="100%">
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
 
 </div>
-</details>
 
-<details>
-  <summary> <img align="left" alt="Github Logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/github.svg" /> <b>:zap: Recent GitHub Activity :zap:</b>: </summary> 
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<br><br>
 
-  <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/CodingAce123/CodingAce123/pull/1) in [CodingAce123/CodingAce123](https://github.com/CodingAce123/CodingAce123)
-2. 🎉 Merged PR [#2](https://github.com/CodingAce123/CodingAce123/pull/2) in [CodingAce123/CodingAce123](https://github.com/CodingAce123/CodingAce123)
-3. 🗣 Commented on [#2](https://github.com/CodingAce123/CodingAce123/issues/2) in [CodingAce123/CodingAce123](https://github.com/CodingAce123/CodingAce123)
-4. 🗣 Commented on [#1](https://github.com/Educational-Websites/Contributors/issues/1) in [Educational-Websites/Contributors](https://github.com/Educational-Websites/Contributors)
-5. 🗣 Commented on [#1](https://github.com/Educational-Websites/Contributors/issues/1) in [Educational-Websites/Contributors](https://github.com/Educational-Websites/Contributors)
-  <!--END_SECTION:activity-->
+- 🔭 I’m a student in **VKU**
 
-</details>
+- 🌱 I’m currently learning **Developer**
 
-## 📺 Latest YouTube Videos
+- 💬 Ask me about **Java, Python, PHP and NodeJS**
 
-<!-- YOUTUBE:START -->
-- [Aaryan 14th birthday bash](https://www.youtube.com/watch?v=aF9xm2sO_hc)
-- [Atari- My village, Bizoara Home Town, Chhattisgarh 4k video](https://www.youtube.com/watch?v=0nanF0RIZPg)
-- [How to Make a Sofa- Easy Origami &lpar;In 5 MINUTES&rpar; 🔥🔥🔥|](https://www.youtube.com/watch?v=Fb9H-Pm2yUo)
-- [50th Wedding Anniversary of Usha Anil Bizoara](https://www.youtube.com/watch?v=TuB-YVbts8k)
-- [Diveagar Shrivardhan | Diveagar Beach | Pune To Diveagar | How To Plan Diveagar Trip Itinerary](https://www.youtube.com/watch?v=Rc5F8uGuNDs)
-<!-- YOUTUBE:END -->
+- 📫 How to reach me **trinhquyetchien2005@gmail.com**
 
-➡️ [More Videos...](https://www.youtube.com/channel/UC5kSlDs_uZs6mr-GeJfC8tg)
-
-<h1 align = 'Center'>Watch a 🐍 Eat my Github Contribution Graph</h1>
-
-![Snake Gif](https://github.com/CodingAce123/CodingAce123/blob/output/github-contribution-grid-snake.gif)
-
----
-
-## Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
-
-[![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)](https://github.com/CodingAce123)
-
-[![Stargazers repo roster for @CodingAce123/CodingAce123](https://reporoster.com/stars/dark/CodingAce123/CodingAce123)](https://github.com/CodingAce123/CodingAce123/stargazers)
-
-[![Forkers repo roster for @CodingAce123/CodingAce123](https://reporoster.com/forks/dark/CodingAce123/CodingAce123)](https://github.com/CodingAce123/CodingAce123/network/members)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=016EEA&size=60&center=true&vCenter=true&width=900&height=100&lines=Thanks+For+Visiting+My+Profile!!.;Visit+Again!...)](https://github.com/CodingAce123)
-
-## Show Some ❤️ by Starring or Forking Some of My Repositories 🙏🙏!
 
 <br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.facebook.com/QuyetChien.1509" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="supun.nanayakkaraii" height="30" width="40" /></a>
+<a href="https://instagram.com/trqt.chien" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supun___lk" height="30" width="40" /></a>
+<a href="https://www.tiktok.com/@trinhquyetchien2005?is_from_webapp=1&sender_device=pc" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Tik%20Tok.png" alt="supun___lk" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@quyetchienascoutic4656#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="supun nanayakkara" height="30" width="40" /></a>
+</p>
+<br>
 
-## 💻 Made with ❤️ by **Aaryan Bizoara** with **Github** 🙏
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-![Bottom Doodle](/bottom.png)
-</details>
+<h3 align="left">Languages and Tools:</h3>
 
-[website]: https://aaryanbizoara.whjr.site/
-[refferal]: https://whjr.co/5yrU7
-[octoprofile]: https://octoprofile.vercel.app/user?id=CodingAce123
-[youtube]: https://www.youtube.com/channel/UC5kSlDs_uZs6mr-GeJfC8tg
-[twitch]: https://twitch.tv/crazysnapshotgamer99
-[twitter]: https://twitter.com/CrzSnapshotGamr
-[roblox]: https://web.roblox.com/users/1992108766/profile
-[discord]: https://discord.gg/4CpjK2vveY
-[spotify]: https://open.spotify.com/user/3rpxiap4czveo8clwzcqaf68e
+- Backend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,py,spring,nestjs" />
+  </a>
+</p>
+
+- Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs" />
+  </a>
+</p>
+
+- Database
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+  </a>
+</p>
+
+- Cloud Servers
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudflare" />
+  </a>
+</p>
+
+- Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux" />
+  </a>
+</p>
+
+<br/>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">Trophy:</h3>
+
+<p align="center">
+<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
+  
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=quyetchien2k5&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
+ </div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=quyetchien2k5&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
+ </div>
+ <br><br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">GitHub Stats:</h3>
+<div align="center">
+ 
+![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=quyetchien2k5\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=quyetchien2k5&theme=midnight-purple)](https://git.io/streak-stats)
+
+</div>
+
+<br><br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">Activity:</h3>
+
+![Supuna97's Graph](https://github-readme-activity-graph.vercel.app/graph?username=quyetchien2k5&custom_title=Supun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<br><br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">Achievements:</h3>
+
